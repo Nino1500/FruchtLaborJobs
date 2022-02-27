@@ -1,8 +1,0 @@
-name: FruchtLaborJobs
-author: Ninoo
-version: 1.0
-api-version: 1.18
-main: net.fruchtlabor.fruchtjobs.FruchtLaborJobs
-commands:
-  jobs:
-  job:
