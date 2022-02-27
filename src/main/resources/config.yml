@@ -1,0 +1,13 @@
+MySQL:
+  host: "localhost"
+  name: "minecraft"
+  user: "minecraft"
+  password: "MC12?!897_he47!"
+  port: 3306
+Jobs:
+  jobnames:
+    - "Minenarbeiter"
+    - "Farmer"
+    - "Fischer"
+    - "Foerster"
+    - "Schatzsucher"
